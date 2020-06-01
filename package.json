@@ -1,0 +1,23 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "A to-do-list application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmelan/to-do-list.git"
+  },
+  "author": "Nick Chmela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chmelan/to-do-list/issues"
+  },
+  "homepage": "https://github.com/chmelan/to-do-list#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
